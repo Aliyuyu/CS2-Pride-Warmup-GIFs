@@ -1,0 +1,71 @@
+﻿"Source"                                                "https://x.com/DEAFPS_"
+"Tokens"
+{				
+		//          _  __                                                                                              
+		//         (_)/ _|                                                                                             
+		//     __ _ _| |_    ___  _ __   __      ____ _ _ __ _ __ ___  _   _ _ __    _ __   ___  _ __  _   _ _ __  ___ 
+		//    / _` | |  _|  / _ \| '_ \  \ \ /\ / / _` | '__| '_ ` _ \| | | | '_ \  | '_ \ / _ \| '_ \| | | | '_ \/ __|
+		//   | (_| | | |   | (_) | | | |  \ V  V / (_| | |  | | | | | | |_| | |_) | | |_) | (_) | |_) | |_| | |_) \__ \
+		//    \__, |_|_|    \___/|_| |_|   \_/\_/ \__,_|_|  |_| |_| |_|\__,_| .__/  | .__/ \___/| .__/ \__,_| .__/|___/
+		//     __/ |                                                        | |     | |         | |         | |        
+		//    |___/                                                         |_|     |_|         |_|         |_|        
+		
+		//pride
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/pride.gif'>"
+
+		//trans
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/trans.gif'>"
+		
+		//enby (smile cat)
+		"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/enby_smile.gif'>"
+
+		//bi
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/bi.gif'>"
+
+		//a
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/asex.gif'>"
+
+		//pan
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/pan.gif'>"
+		
+		//lesbian
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/lesbian.gif'>"
+		
+		//gay
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/gay.gif'>"
+		
+		//genderfluid
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/genderfluid.gif'>"
+
+		
+		//        _ _ _         _       _                     _              
+		//       (_) | |       | |     | |                   | |             
+		//    ___ _| | |_   _  | |_ ___| | ___ _ __ ___   ___| |_ _ __ _   _ 
+		//   / __| | | | | | | | __/ _ \ |/ _ \ '_ ` _ \ / _ \ __| '__| | | |
+		//   \__ \ | | | |_| | | ||  __/ |  __/ | | | | |  __/ |_| |  | |_| |
+		//   |___/_|_|_|\__, |  \__\___|_|\___|_| |_| |_|\___|\__|_|   \__, |
+		//               __/ |                                          __/ |
+		//              |___/                                          |___/ 
+		
+		"hud_telemetry_frametime_fps"								"✨ 𝓯𝓹𝓼: %s2\n✨ 𝓶𝓼: %s1h"
+		"hud_telemetry_ping"										"✨ 𝓹𝓲𝓷𝓰: %s1"
+		
+		
+		//         _           _         _       _   
+		//        | |         | |       | |     | |  
+		//     ___| |__   __ _| |_    __| | ___ | |_ 
+		//    / __| '_ \ / _` | __|  / _` |/ _ \| __|
+		//   | (__| | | | (_| | |_  | (_| | (_) | |_ 
+		//    \___|_| |_|\__,_|\__|  \__,_|\___/ \__|
+		//                                           
+		//   
+		
+		"CSGO_Competitive_Dot"              "✨"
+        "CSGO_Competitive_Dot_Y"            "✨"
+        "CSGO_Competitive_Dot_P"            "✨"
+        "CSGO_Competitive_Dot_G"            "✨"
+        "CSGO_Competitive_Dot_B"            "✨"
+        "CSGO_Competitive_Dot_O"            "✨"
+}
+
+
