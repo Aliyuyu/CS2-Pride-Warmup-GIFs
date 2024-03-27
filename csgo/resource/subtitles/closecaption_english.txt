@@ -17,7 +17,7 @@
 		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/trans.gif'>"
 		
 		//enby (smile cat)
-		"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/enby_smile.gif'>"
+		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/enby_smile.gif'>"
 
 		//bi
 		//"CSGO_Notice_Alert_Warmup_Period"                           "<img src='https://raw.githubusercontent.com/DEAFPS/CS2-Pride-Warmup-GIFs/main/gifs/bi.gif'>"
@@ -47,8 +47,8 @@
 		//               __/ |                                          __/ |
 		//              |___/                                          |___/ 
 		
-		"hud_telemetry_frametime_fps"								"✨ 𝓯𝓹𝓼: %s2\n✨ 𝓶𝓼: %s1h"
-		"hud_telemetry_ping"										"✨ 𝓹𝓲𝓷𝓰: %s1"
+		"hud_telemetry_frametime_fps"					"✨ 𝓯𝓹𝓼: %s2\n✨ 𝓶𝓼: %s1h"
+		"hud_telemetry_ping"						"✨ 𝓹𝓲𝓷𝓰: %s1"
 		
 		
 		//         _           _         _       _   
@@ -61,11 +61,11 @@
 		//   
 		
 		"CSGO_Competitive_Dot"              "✨"
-        "CSGO_Competitive_Dot_Y"            "✨"
-        "CSGO_Competitive_Dot_P"            "✨"
-        "CSGO_Competitive_Dot_G"            "✨"
-        "CSGO_Competitive_Dot_B"            "✨"
-        "CSGO_Competitive_Dot_O"            "✨"
+        	"CSGO_Competitive_Dot_Y"            "✨"
+        	"CSGO_Competitive_Dot_P"            "✨"
+        	"CSGO_Competitive_Dot_G"            "✨"
+        	"CSGO_Competitive_Dot_B"            "✨"
+        	"CSGO_Competitive_Dot_O"            "✨"
 }
 
 
